@@ -11,4 +11,4 @@ ADD .vimrc /home/vim/.vimrc
 VOLUME /data
 WORKDIR /data
 
-CMD /bin/sh
+CMD vim

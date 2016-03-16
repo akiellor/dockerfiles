@@ -1,15 +1,15 @@
 [submodule "productivity/editor/.vim/bundle/nerdtree"]
-	path = productivity/editor/.vim/bundle/nerdtree
+	path = editor/.vim/bundle/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
 [submodule "productivity/editor/.vim/bundle/vim-colors-solarized"]
-	path = productivity/editor/.vim/bundle/vim-colors-solarized
+	path = editor/.vim/bundle/vim-colors-solarized
 	url = git@github.com:altercation/vim-colors-solarized.git
 [submodule "productivity/editor/.vim/bundle/ctrlp.vim"]
-	path = productivity/editor/.vim/bundle/ctrlp.vim
+	path = editor/.vim/bundle/ctrlp.vim
 	url = git@github.com:kien/ctrlp.vim
 [submodule "productivity/editor/.vim/bundle/vim-javascript"]
-	path = productivity/editor/.vim/bundle/vim-javascript
+	path = editor/.vim/bundle/vim-javascript
 	url = git@github.com:pangloss/vim-javascript
 [submodule "productivity/editor/.vim/bundle/ag.vim"]
-	path = productivity/editor/.vim/bundle/ag.vim
+	path = editor/.vim/bundle/ag.vim
 	url = git@github.com:rking/ag.vim

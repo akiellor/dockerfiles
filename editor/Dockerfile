@@ -1,12 +1,9 @@
 FROM alpine
 
-RUN apk --update add vim the_silver_searcher
+RUN apk --update add vim the_silver_searcher git
 
-RUN adduser -S vim
-USER vim
-
-ADD .vim /home/vim/.vim
-ADD .vimrc /home/vim/.vimrc
+ADD .vim /root/.vim
+ADD .vimrc /root/.vimrc
 
 VOLUME /data
 WORKDIR /data

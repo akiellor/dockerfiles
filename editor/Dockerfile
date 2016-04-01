@@ -8,4 +8,4 @@ ADD .vimrc /root/.vimrc
 VOLUME /data
 WORKDIR /data
 
-CMD vim
+ENTRYPOINT ["/usr/bin/vim"]

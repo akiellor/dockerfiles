@@ -6,4 +6,6 @@ RUN pip install proselint
 
 VOLUME /data
 
-CMD sh
+ENTRYPOINT ["/usr/bin/proselint"]
+
+CMD ["-h"]

@@ -1,6 +1,6 @@
 # OpenCV
 
-This docker image has a vanilla install of opencv with matplotlib, this should be enough to work through many of the examples in (OpenCV Python Tutorials)[https://opencv-python-tutroals.readthedocs.io]
+This docker image has a vanilla install of opencv with matplotlib, this should be enough to work through many of the examples in [OpenCV Python Tutorials](https://opencv-python-tutroals.readthedocs.io)
 
 ## Displaying Images
 

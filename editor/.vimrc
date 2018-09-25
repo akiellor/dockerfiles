@@ -14,3 +14,7 @@ colorscheme solarized
 let g:ctrlp_user_command = ['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
 
 set viminfo='1000,n/vim/.viminfo'
+
+let mapleader = ","
+
+noremap <leader>d :NERDTreeToggle<cr>

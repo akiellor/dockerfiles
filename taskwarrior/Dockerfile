@@ -15,7 +15,8 @@ RUN cmake -DCMAKE_BUILD_TYPE=release .
 RUN make
 RUN make install
 
-VOLUME /.taskrc
+ADD .taskrc /.taskrc
+
 VOLUME /.task
 
 ENTRYPOINT ["/usr/local/bin/task", "rc:/.taskrc"]

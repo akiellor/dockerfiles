@@ -13,3 +13,6 @@
 [submodule "productivity/editor/.vim/bundle/ag.vim"]
 	path = editor/.vim/bundle/ag.vim
 	url = https://github.com/rking/ag.vim.git
+[submodule "editor/.vim/bundle/surround"]
+	path = editor/.vim/bundle/surround
+	url = https://tpope.io/vim/surround.git

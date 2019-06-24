@@ -16,3 +16,6 @@
 [submodule "editor/.vim/bundle/surround"]
 	path = editor/.vim/bundle/surround
 	url = https://tpope.io/vim/surround.git
+[submodule "editor/.vim/bundle/vim-orgmode"]
+	path = editor/.vim/bundle/vim-orgmode
+	url = https://github.com/jceb/vim-orgmode.git

@@ -19,3 +19,18 @@
 [submodule "editor/.vim/bundle/vim-orgmode"]
 	path = editor/.vim/bundle/vim-orgmode
 	url = https://github.com/jceb/vim-orgmode.git
+[submodule "editor/.vim/bundle/ale"]
+	path = editor/.vim/bundle/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "editor/.vim/bundle/tsuquyomi"]
+	path = editor/.vim/bundle/tsuquyomi
+	url = https://github.com/Quramy/tsuquyomi.git
+[submodule "editor/.vim/bundle/typescript-vim"]
+	path = editor/.vim/bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "editor/.vim/bundle/vim-airline"]
+	path = editor/.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "editor/.vim/bundle/vimproc.vim"]
+	path = editor/.vim/bundle/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git

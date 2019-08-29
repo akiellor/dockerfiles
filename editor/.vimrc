@@ -4,6 +4,9 @@ let mapleader = ","
 set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
 set noswapfile
 
+" Windows
+set splitright
+
 " Syntax Highlighting
 syntax on
 set t_Co=256
@@ -27,12 +30,15 @@ let g:ale_fixers = {
 \}
 let g:airline#extensions#ale#enabled = 1
 let g:ale_enabled = 1
-let g:ale_fix_on_save = 1
 let g:ale_ruby_rubocop_executable = './.vim-ide/bin/rubocop'
 let g:ale_ruby_solargraph_executable = './.vim-ide/bin/solargraph'
 let g:ale_javascript_eslint_executable = './.vim-ide/bin/eslint'
 
 " Mappings
-noremap <leader>d :NERDTreeToggle<cr>
+nmap <leader>d :NERDTreeToggle<cr>
 nmap <silent> <C-k> <Plug>(ale_previous_wrap)
 nmap <silent> <C-j> <Plug>(ale_next_wrap)
+nmap <leader>f <Plug>(ale_find_references)
+nmap <leader>h <Plug>(ale_hover)
+nmap <leader>g <Plug>(ale_go_to_definition)
+nmap <leader>G <Plug>(ale_go_to_definition_in_vsplit)

@@ -1,0 +1,8 @@
+"Code Error Text Severity Associated Element(s) Form Reference","","","",""
+"G14","The element is recorded but without a value (i.e. the value is null).","Fatal","Transmitter Taxpayer Identification Number (TIN) or Control Code (TCC) Type","NA"
+"G15","The element contains a value that is not a valid code","Fatal","Transmitter Taxpayer Identification Number (TIN) or Control Coe (TCC) Type","NA"
+"G16","The Transmitter Control Code (TCC) specified in the file is not a valid TCC. For production, the TCC must begin with “P” and for User Test, it must be equal to “TBSATEST”.","Fatal","Transmitter Control Code (TCC) Number","NA"
+"","","","",""
+"","","","",""
+"G19","The value recorded for the element contains non-numeric characters","Warning","Transmitter Telephone Number","NA"
+"G20","The element is not recorded or does not contain a value (i.e. the value is null).","Warning","Transmitter Telephone Number","NA"

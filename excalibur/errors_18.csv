@@ -1,0 +1,7 @@
+"Code Error Text Severity Associated Element(s) Form Reference","","","",""
+"F0","The batch submission contains an attachment but the <OriginalAttachmentFileName> element is not recorded or does not contain a value.","Fatal","OriginalAttachmentFileName","FinCEN SAR Attachment"
+"F1","The element is recorded with a valid value but there is no corresponding attachment.","Fatal","OriginalAttachmentFileName","FinCEN SAR Attachment"
+"F2","The element is not recorded.","Fatal","ActivityNarrativeInformation","Narrative"
+"F3","The element is not recorded or does not contain a value.","Fatal","ActivityNarrativeSequenceNumber","Narrative: Sequence Number"
+"F4","The element contains an invalid code.","Fatal","ActivityNarrativeSequenceNumber","Narrative: Sequence Number"
+"F5","The element is not recorded or does not contain a value.","Fatal","ActivityNarrativeText","Narrative: Value/Description"

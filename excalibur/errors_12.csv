@@ -1,0 +1,4 @@
+"Code Error Text Severity Associated Element(s) Form Reference","","","",""
+"D0","The party type associated with the financial institution where activity occurred is not recorded.","Fatal","Party","FI Where Activity Occurred"
+"D1","The party type associated with the financial institution where activity occurred exceeds the maximum occurrence for the FinCEN SAR.","Fatal","Party","FI Where Activity Occurred"
+"D2","The element is not recorded.","Fatal","OrganizationClassificationTypeSubtype","51, 53-54. Institution Type/Subtype"

@@ -1,0 +1,4 @@
+"Code Error Text Severity Associated Element(s) Form Reference","","","",""
+"B70","The element is recorded but without a value (i.e. the value is null).","Fatal","FilingDateText","95. Date filed"
+"B71","The value recorded for the element is a date greater than the current date or less than January 1, 2000.","Fatal","FilingDateText","95. Date filed"
+"B72","The value recorded for the element is not a valid date in the format YYYYMMDD.","Fatal","FilingDateText","95. Date filed"

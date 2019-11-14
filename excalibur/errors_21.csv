@@ -1,0 +1,4 @@
+"Code Error Text Severity Associated Element(s) Form Reference","","","",""
+"H0","A required party associated with the transmitter contact is missing.","Fatal","Party","NA"
+"H1","The report contains more than one party associated with the transmitter contact.","Fatal","Party","NA"
+"H2","The element is not recorded or does not contain a value","Warning","Transmitter Contact Name","NA"

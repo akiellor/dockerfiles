@@ -1,16 +1,16 @@
-[submodule "productivity/editor/.vim/bundle/nerdtree"]
+[submodule "editor/.vim/bundle/nerdtree"]
 	path = editor/.vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "productivity/editor/.vim/bundle/vim-colors-solarized"]
+[submodule "editor/.vim/bundle/vim-colors-solarized"]
 	path = editor/.vim/bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
-[submodule "productivity/editor/.vim/bundle/ctrlp.vim"]
+[submodule "editor/.vim/bundle/ctrlp.vim"]
 	path = editor/.vim/bundle/ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim.git
-[submodule "productivity/editor/.vim/bundle/vim-javascript"]
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "editor/.vim/bundle/vim-javascript"]
 	path = editor/.vim/bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
-[submodule "productivity/editor/.vim/bundle/ag.vim"]
+[submodule "editor/.vim/bundle/ag.vim"]
 	path = editor/.vim/bundle/ag.vim
 	url = https://github.com/rking/ag.vim.git
 [submodule "editor/.vim/bundle/surround"]
@@ -34,3 +34,12 @@
 [submodule "editor/.vim/bundle/vimproc.vim"]
 	path = editor/.vim/bundle/vimproc.vim
 	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "editor/.vim/bundle/vim-bufferline"]
+	path = editor/.vim/bundle/vim-bufferline
+	url = https://github.com/bling/vim-bufferline.git
+[submodule "editor/.vim/bundle/vim-dadbod"]
+	path = editor/.vim/bundle/vim-dadbod
+	url = https://github.com/tpope/vim-dadbod.git
+[submodule "editor/.vim/bundle/vim-endwise"]
+	path = editor/.vim/bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise.git

@@ -43,3 +43,9 @@
 [submodule "editor/.vim/bundle/vim-endwise"]
 	path = editor/.vim/bundle/vim-endwise
 	url = https://github.com/tpope/vim-endwise.git
+[submodule "editor/.vim/bundle/vimwiki"]
+	path = editor/.vim/bundle/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
+[submodule "editor/.vim/bundle/splitjoin"]
+	path = editor/.vim/bundle/splitjoin
+	url = https://github.com/AndrewRadev/splitjoin.vim.git

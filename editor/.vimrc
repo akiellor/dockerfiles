@@ -20,19 +20,6 @@ colorscheme solarized
 " Ctrl-p config
 let g:ctrlp_user_command = 'ag %s -l --nocolor --hidden -g ""'
 
-" Ale
-let g:airline#extensions#ale#enabled = 1
-let g:ale_enabled = 1
-let g:ale_completion_enabled = 1
-
-" Mappings
-nmap <silent> <C-k> <Plug>(ale_previous_wrap)
-nmap <silent> <C-j> <Plug>(ale_next_wrap)
-nmap <leader>f <Plug>(ale_find_references)
-nmap <leader>h <Plug>(ale_hover)
-nmap <leader>g <Plug>(ale_go_to_definition)
-nmap <leader>G <Plug>(ale_go_to_definition_in_vsplit)
-
 " Project specific settings
 let $PATH = '.vim-ide/bin:' . $PATH
 silent! source .vimrc

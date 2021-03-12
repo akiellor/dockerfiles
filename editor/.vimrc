@@ -17,6 +17,9 @@ let g:solarized_termcolors=256
 set background=light
 colorscheme solarized
 
+" CoC Extensions
+let g:coc_global_extensions = [ 'coc-tsserver' ]
+
 " Ctrl-p config
 let g:ctrlp_user_command = 'ag %s -l --nocolor --hidden -g ""'
 

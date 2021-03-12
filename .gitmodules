@@ -46,3 +46,6 @@
 [submodule "editor/.vim/bundle/splitjoin"]
 	path = editor/.vim/bundle/splitjoin
 	url = https://github.com/AndrewRadev/splitjoin.vim.git
+[submodule "editor/.vim/bundle/coc.nvim"]
+	path = editor/.vim/bundle/coc.nvim
+	url = git@github.com:neoclide/coc.nvim.git

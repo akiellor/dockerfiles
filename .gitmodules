@@ -43,3 +43,6 @@
 [submodule "editor/.vim/bundle/coc.nvim"]
 	path = editor/.vim/bundle/coc.nvim
 	url = git@github.com:neoclide/coc.nvim.git
+[submodule "editor/.vim/bundle/vim-graphql"]
+	path = editor/.vim/bundle/vim-graphql
+	url = git@github.com:jparise/vim-graphql.git

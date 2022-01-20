@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/andrew/Code/hummingbird-rails/app/graphql/graphql_types'
+let g:netrw_dirhist_4='/Users/andrew/Code/hummingbird-rails/circleci/jobs'
+let g:netrw_dirhist_3='/Users/andrew/Code/hummingbird-rails/circleci'
+let g:netrw_dirhist_2='/Users/andrew/Code/hummingbird-rails/circleci/jobs'
+let g:netrw_dirhist_1='/Users/andrew/Code/hummingbird-rails/circleci'
+let g:netrw_dirhist_0='/Users/andrew/Code/hummingbird-rails/circleci/jobs'
+let g:netrw_dirhist_9='/Users/andrew/Code/hummingbird-rails/circleci'
+let g:netrw_dirhist_8='/Users/andrew/Code/hummingbird-rails/app/javascript/components/cases/report/decision/effect_inputs'
+let g:netrw_dirhist_7='/Users/andrew/Code/hummingbird-rails/spec/integration/domain/workflows/commands/effectors'
+let g:netrw_dirhist_6='/Users/andrew/Code/hummingbird-rails/app/domain/workflows/effects'
